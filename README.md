@@ -1,2 +1,2 @@
-# Leetcode-Questions
-Collection of LeetCode questions  
+# GFG-Questions
+Collection of GFG questions  
